@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(24, 96, 138);
+    display: flex;
+}
+.class{
+    background-color: white;
+    color: rgb(3, 3, 3);
+    display: inline-block;
+}
+.cs{
+    background-color: black;
+    color: white;
+      
+}
