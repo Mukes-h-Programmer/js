@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    border: 2px solid black;
+    margin: 3px 0px;
+    background-color: blue;
+    padding: 9px;
+}
+.bg-primary{
+    background-color: aqua;
+}
+.text-success{
+    color: red;
+}
